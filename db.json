@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meeting at office",
+      "day": "Feb 7th at 3:30pm",
+      "reminder": false
+    },
+    {
+      "id": 572,
+      "text": "Diwali train booking",
+      "day": "2022-07-23 at 08:30",
+      "reminder": true
+    }
+  ]
+}
